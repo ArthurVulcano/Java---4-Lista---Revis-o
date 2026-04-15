@@ -11,6 +11,7 @@ public class logica_par_impar_vs_magnitude {
                 "Seu numero é impar e menor que 100" : (x%2 == 0 && x > 100) ?
                 "Seu numero é par e maior que 100" : "Seu numero é impar e maior que 100";
         System.out.println(n);
+         sm.close();
 
 
     }
