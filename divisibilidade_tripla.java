@@ -10,4 +10,5 @@ public class divisibilidade_tripla {
         String o = (x%30 == 0 ) ? "é divisivel por 2, 3 e 5" : "Não é divisivel";
         System.out.println(o);
     }
+     sm.close();
 }
