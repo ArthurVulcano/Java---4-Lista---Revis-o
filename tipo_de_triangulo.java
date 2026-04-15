@@ -36,6 +36,7 @@ public class exemplo_triangulos {
             ok = sm.next();
 
                 }while (!ok.equals("sim"));
+         sm.close();
 
             }
 
