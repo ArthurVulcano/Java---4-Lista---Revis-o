@@ -14,6 +14,7 @@ public class duracao_de_jogo {
                 : "O jogo terminou no mesmo dia";
         System.out.println(j);
         }
+     sm.close();
 
     }
 
