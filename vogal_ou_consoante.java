@@ -10,6 +10,7 @@ public class vogal_ou_consoante {
         char vg = 'a' +'e' +'i' + 'o' + 'u';
          String c = (!l.equals(vg)) ? "Sua letra é uma vogal" : "Sua letra é uma consoante";
         System.out.println(c);
+         sm.close();
 
     }
 }
