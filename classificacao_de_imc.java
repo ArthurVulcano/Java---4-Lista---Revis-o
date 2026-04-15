@@ -25,6 +25,7 @@ public class classificacao_de_imc {
 
 
             }
+             sm.close();
         }
     }
 }
