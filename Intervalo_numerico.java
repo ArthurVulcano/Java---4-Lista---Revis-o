@@ -24,6 +24,7 @@ public class Intervalo_numerico {
                 System.out.println("Programa encerrado");
 
             }
+             sm.close();
         }
     }
 }
