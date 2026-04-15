@@ -28,6 +28,7 @@ public class condicoes_de_pagamento {
             if (!ok.equals("sim")){
                 System.out.println("programa encerrado");
             }
+             sm.close();
 
 
 
