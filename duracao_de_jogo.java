@@ -13,8 +13,8 @@ public class duracao_de_jogo {
         String j  = (x2 < x) ? "O jogo terminou no dia seguinte, a duração total foi: " + dracao
                 : "O jogo terminou no mesmo dia";
         System.out.println(j);
+         sm.close();
         }
-     sm.close();
-
+     
     }
 
